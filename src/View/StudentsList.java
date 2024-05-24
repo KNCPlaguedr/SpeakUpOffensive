@@ -67,7 +67,7 @@ public class StudentsList extends javax.swing.JFrame {
                 {null, null, null, null, null, null, null}
             },
             new String [] {
-                "Name", "Surname", "Cellphone", "Book", "Fist Time", "Last Time", "Best Offensive"
+                "Name", "Surname", "Cellphone", "Book", "First Time", "Last Time", "Best Offensive"
             }
         ));
         jScrollPane1.setViewportView(table);

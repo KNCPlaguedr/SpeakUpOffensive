@@ -1,4 +1,4 @@
-package speakupregister;
+package Main;
 
 import View.MainScreen;
 
